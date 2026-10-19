@@ -6,7 +6,7 @@ import random
 from datetime import date, timedelta
 from pathlib import Path
 
-import fitz  # PyMuPDF
+import pymupdf as fitz
 from faker import Faker
 from PIL import Image, ImageFilter
 from reportlab.lib.pagesizes import A4

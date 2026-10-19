@@ -1,0 +1,182 @@
+{
+  "en_pdf_0000": {
+    "vendor": "Taylor Inc",
+    "invoice_number": "INV-2024-8936",
+    "date": "2024-11-23",
+    "currency": "EUR",
+    "subtotal": 670.59,
+    "tax": 0.0,
+    "total": 670.59
+  },
+  "fr_pdf_0001": {
+    "vendor": "Chauveau S.A.R.L.",
+    "invoice_number": "FAC202406925",
+    "date": "2024-12-15",
+    "currency": "EUR",
+    "subtotal": 3743.2,
+    "tax": 748.64,
+    "total": 4491.84
+  },
+  "en_scan_0002": {
+    "vendor": "Clark-Adams",
+    "invoice_number": "INV202303734",
+    "date": "2023-02-16",
+    "currency": "GBP",
+    "subtotal": 10215.34,
+    "tax": 0.0,
+    "total": 10215.34
+  },
+  "fr_scan_0003": {
+    "vendor": "Joly",
+    "invoice_number": "FAC202406217",
+    "date": "2024-04-18",
+    "currency": "EUR",
+    "subtotal": 5195.29,
+    "tax": null,
+    "total": 6234.35
+  },
+  "en_pdf_0004": {
+    "vendor": "Ferrell, Rice and Maddox",
+    "invoice_number": "5305",
+    "date": "2024-07-05",
+    "currency": "EUR",
+    "subtotal": 4335.45,
+    "tax": 867.09,
+    "total": 5202.54
+  },
+  "fr_pdf_0005": {
+    "vendor": "Camus",
+    "invoice_number": "FAC202401041",
+    "date": "2024-09-02",
+    "currency": "EUR",
+    "subtotal": 1084.35,
+    "tax": 108.44,
+    "total": 1192.79
+  },
+  "en_scan_0006": {
+    "vendor": "Hickman Ltd",
+    "invoice_number": "5890",
+    "date": "2025-06-10",
+    "currency": "EUR",
+    "subtotal": null,
+    "tax": 0.0,
+    "total": 5252.5
+  },
+  "fr_scan_0007": {
+    "vendor": "Sanchez Pichon S.A.S.",
+    "invoice_number": "FAC-2025-2061",
+    "date": "2025-02-23",
+    "currency": "EUR",
+    "subtotal": 5272.82,
+    "tax": 290.01,
+    "total": 5562.83
+  },
+  "en_pdf_0008": {
+    "vendor": "Mitchell-Horton",
+    "invoice_number": "INV-2024-3609",
+    "date": "2024-08-25",
+    "currency": "GBP",
+    "subtotal": 3663.74,
+    "tax": 183.19,
+    "total": 3846.93
+  },
+  "fr_pdf_0009": {
+    "vendor": "Bertin",
+    "invoice_number": "FAC-2023-1546",
+    "date": "2023-07-14",
+    "currency": "EUR",
+    "subtotal": 5174.8,
+    "tax": 517.48,
+    "total": 5692.28
+  },
+  "en_scan_0010": {
+    "vendor": "Medina PLC",
+    "invoice_number": "INV-2023-3140",
+    "date": "2023-09-12",
+    "currency": "EUR",
+    "subtotal": 2091.42,
+    "tax": 0.0,
+    "total": 2091.42
+  },
+  "fr_scan_0011": {
+    "vendor": "Marie SA",
+    "invoice_number": "7931",
+    "date": "2023-10-20",
+    "currency": "EUR",
+    "subtotal": 5994.24,
+    "tax": 599.42,
+    "total": 6593.66
+  },
+  "en_pdf_0012": {
+    "vendor": "Gomez PLC",
+    "invoice_number": "INV-2023-3045",
+    "date": "2023-03-24",
+    "currency": "USD",
+    "subtotal": 2538.01,
+    "tax": 507.6,
+    "total": 3045.61
+  },
+  "fr_pdf_0013": {
+    "vendor": "Leleu SARL",
+    "invoice_number": "4347",
+    "date": "2023-09-25",
+    "currency": "EUR",
+    "subtotal": 2656.4,
+    "tax": 265.64,
+    "total": 2922.04
+  },
+  "en_scan_0014": {
+    "vendor": "Graham-Joyce",
+    "invoice_number": "4493",
+    "date": "2024-07-04",
+    "currency": "USD",
+    "subtotal": 5987.48,
+    "tax": 0.0,
+    "total": 5987.48
+  },
+  "fr_scan_0015": {
+    "vendor": "Pichon",
+    "invoice_number": "FAC-2023-5618",
+    "date": "2023-08-04",
+    "currency": "EUR",
+    "subtotal": null,
+    "tax": 186.58,
+    "total": 3579.02
+  },
+  "en_pdf_0016": {
+    "vendor": "Atkinson, Jones and Perry",
+    "invoice_number": "INV202400591",
+    "date": "2024-07-12",
+    "currency": "USD",
+    "subtotal": 4283.01,
+    "tax": 214.15,
+    "total": 4497.16
+  },
+  "fr_pdf_0017": {
+    "vendor": "Hamel",
+    "invoice_number": "FAC-2023-3879",
+    "date": "2023-06-08",
+    "currency": "EUR",
+    "subtotal": 5680.35,
+    "tax": 312.42,
+    "total": 5992.77
+  },
+  "en_scan_0018": {
+    "vendor": "Hall Ltd",
+    "invoice_number": "INV-2023-5001",
+    "date": "2023-12-25",
+    "currency": "EUR",
+    "subtotal": 3189.45,
+    "tax": 318.94,
+    "total": 3508.39
+  },
+  "fr_scan_0019": {
+    "vendor": "Perrier SARL",
+    "invoice_number": "FAC202505140",
+    "date": "2025-03-16",
+    "currency": "EUR",
+    "subtotal": 2295.26,
+    "tax": 126.24,
+    "total": 2421.5
+  }
+}

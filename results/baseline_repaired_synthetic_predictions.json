@@ -1,0 +1,1082 @@
+{
+  "en_pdf_0000": {
+    "vendor": "Taylor Inc",
+    "invoice_number": "INV-2024-8936",
+    "date": "2024-11-23",
+    "currency": "EUR",
+    "subtotal": 670.59,
+    "tax": 0.0,
+    "total": 670.59
+  },
+  "fr_pdf_0001": {
+    "vendor": "Chauveau S.A.R.L.",
+    "invoice_number": "FAC202406925",
+    "date": "2024-12-15",
+    "currency": "EUR",
+    "subtotal": 3743.2,
+    "tax": 748.64,
+    "total": 4491.84
+  },
+  "en_scan_0002": {
+    "vendor": "Clark-Adams",
+    "invoice_number": "INV202303734",
+    "date": "2023-02-16",
+    "currency": "GBP",
+    "subtotal": 10215.34,
+    "tax": 0.0,
+    "total": 10215.34
+  },
+  "fr_scan_0003": {
+    "vendor": "Joly",
+    "invoice_number": "FAC202406217",
+    "date": "2024-04-18",
+    "currency": "EUR",
+    "subtotal": 5195.29,
+    "tax": 1039.06,
+    "total": 6234.35
+  },
+  "en_pdf_0004": {
+    "vendor": "Ferrell, Rice and Maddox",
+    "invoice_number": "5305",
+    "date": "2024-07-05",
+    "currency": "EUR",
+    "subtotal": 4335.45,
+    "tax": 867.09,
+    "total": 5202.54
+  },
+  "fr_pdf_0005": {
+    "vendor": "Camus",
+    "invoice_number": "FAC202401041",
+    "date": "2024-09-02",
+    "currency": "EUR",
+    "subtotal": 1084.35,
+    "tax": 108.44,
+    "total": 1192.79
+  },
+  "en_scan_0006": {
+    "vendor": "Hickman Ltd",
+    "invoice_number": "5890",
+    "date": "2025-06-10",
+    "currency": "EUR",
+    "subtotal": 5252.5,
+    "tax": 0.0,
+    "total": 5252.5
+  },
+  "fr_scan_0007": {
+    "vendor": "Sanchez Pichon S.A.S.",
+    "invoice_number": "FAC-2025-2061",
+    "date": "2025-02-23",
+    "currency": "EUR",
+    "subtotal": 5272.82,
+    "tax": 290.01,
+    "total": 5562.83
+  },
+  "en_pdf_0008": {
+    "vendor": "Mitchell-Horton",
+    "invoice_number": "INV-2024-3609",
+    "date": "2024-08-25",
+    "currency": "GBP",
+    "subtotal": 3663.74,
+    "tax": 183.19,
+    "total": 3846.93
+  },
+  "fr_pdf_0009": {
+    "vendor": "Bertin",
+    "invoice_number": "FAC-2023-1546",
+    "date": "2023-07-14",
+    "currency": "EUR",
+    "subtotal": 5174.8,
+    "tax": 517.48,
+    "total": 5692.28
+  },
+  "en_scan_0010": {
+    "vendor": "Medina PLC",
+    "invoice_number": "INV-2023-3140",
+    "date": "2023-09-12",
+    "currency": "EUR",
+    "subtotal": 2091.42,
+    "tax": 0.0,
+    "total": 2091.42
+  },
+  "fr_scan_0011": {
+    "vendor": "Marie SA",
+    "invoice_number": "7931",
+    "date": "2023-10-20",
+    "currency": "EUR",
+    "subtotal": 5994.24,
+    "tax": 599.42,
+    "total": 6593.66
+  },
+  "en_pdf_0012": {
+    "vendor": "Gomez PLC",
+    "invoice_number": "INV-2023-3045",
+    "date": "2023-03-24",
+    "currency": "USD",
+    "subtotal": 2538.01,
+    "tax": 507.6,
+    "total": 3045.61
+  },
+  "fr_pdf_0013": {
+    "vendor": "Leleu SARL",
+    "invoice_number": "4347",
+    "date": "2023-09-25",
+    "currency": "EUR",
+    "subtotal": 2656.4,
+    "tax": 265.64,
+    "total": 2922.04
+  },
+  "en_scan_0014": {
+    "vendor": "Graham-Joyce",
+    "invoice_number": "4493",
+    "date": "2024-07-04",
+    "currency": "USD",
+    "subtotal": 5987.48,
+    "tax": 0.0,
+    "total": 5987.48
+  },
+  "fr_scan_0015": {
+    "vendor": "Pichon",
+    "invoice_number": "FAC-2023-5618",
+    "date": "2023-08-04",
+    "currency": "EUR",
+    "subtotal": 3392.44,
+    "tax": 186.58,
+    "total": 3579.02
+  },
+  "en_pdf_0016": {
+    "vendor": "Atkinson, Jones and Perry",
+    "invoice_number": "INV202400591",
+    "date": "2024-07-12",
+    "currency": "USD",
+    "subtotal": 4283.01,
+    "tax": 214.15,
+    "total": 4497.16
+  },
+  "fr_pdf_0017": {
+    "vendor": "Hamel",
+    "invoice_number": "FAC-2023-3879",
+    "date": "2023-06-08",
+    "currency": "EUR",
+    "subtotal": 5680.35,
+    "tax": 312.42,
+    "total": 5992.77
+  },
+  "en_scan_0018": {
+    "vendor": "Hall Ltd",
+    "invoice_number": "INV-2023-5001",
+    "date": "2023-12-25",
+    "currency": "EUR",
+    "subtotal": 3189.45,
+    "tax": 318.94,
+    "total": 3508.39
+  },
+  "fr_scan_0019": {
+    "vendor": "Perrier SARL",
+    "invoice_number": "FAC202505140",
+    "date": "2025-03-16",
+    "currency": "EUR",
+    "subtotal": 2295.26,
+    "tax": 126.24,
+    "total": 2421.5
+  },
+  "en_pdf_0020": {
+    "vendor": "Murphy-Gibson",
+    "invoice_number": "6068",
+    "date": "2024-06-03",
+    "currency": "EUR",
+    "subtotal": 3137.66,
+    "tax": 251.01,
+    "total": 3388.67
+  },
+  "fr_pdf_0021": {
+    "vendor": "Sanchez Allain et Fils",
+    "invoice_number": "FAC202407239",
+    "date": "2024-04-21",
+    "currency": "EUR",
+    "subtotal": 4841.96,
+    "tax": 484.2,
+    "total": 5326.16
+  },
+  "en_scan_0022": {
+    "vendor": "Gross Ltd",
+    "invoice_number": "7791",
+    "date": "2024-04-11",
+    "currency": "EUR",
+    "subtotal": 7653.75,
+    "tax": 0.0,
+    "total": 7653.75
+  },
+  "fr_scan_0023": {
+    "vendor": "Berthelot",
+    "invoice_number": "FAC202301989",
+    "date": "2023-09-13",
+    "currency": "EUR",
+    "subtotal": 2336.58,
+    "tax": 128.51,
+    "total": 2465.09
+  },
+  "en_pdf_0024": {
+    "vendor": "Sullivan and Sons",
+    "invoice_number": "INV202403920",
+    "date": "2024-05-11",
+    "currency": "GBP",
+    "subtotal": 4346.74,
+    "tax": 869.35,
+    "total": 5216.09
+  },
+  "fr_pdf_0025": {
+    "vendor": "Neveu S.A.S.",
+    "invoice_number": "FAC202407634",
+    "date": "2024-07-09",
+    "currency": "EUR",
+    "subtotal": 1815.06,
+    "tax": 181.51,
+    "total": 1996.57
+  },
+  "en_scan_0026": {
+    "vendor": "Vasquez-Ray",
+    "invoice_number": "INV-2024-7957",
+    "date": "2024-03-22",
+    "currency": "USD",
+    "subtotal": 6716.25,
+    "tax": 537.3,
+    "total": 7253.55
+  },
+  "fr_scan_0027": {
+    "vendor": "Barbier SA",
+    "invoice_number": "FAC202304263",
+    "date": "2023-02-21",
+    "currency": "EUR",
+    "subtotal": 1560.01,
+    "tax": 312.0,
+    "total": 1872.01
+  },
+  "en_pdf_0028": {
+    "vendor": "Walker, Hernandez and Baker",
+    "invoice_number": "INV-2024-2497",
+    "date": "2024-09-28",
+    "currency": "GBP",
+    "subtotal": 1265.1,
+    "tax": 0.0,
+    "total": 1265.1
+  },
+  "fr_pdf_0029": {
+    "vendor": "Ledoux S.A.",
+    "invoice_number": "FAC202400421",
+    "date": "2024-08-15",
+    "currency": "EUR",
+    "subtotal": 4231.24,
+    "tax": 846.25,
+    "total": 5077.49
+  },
+  "en_scan_0030": {
+    "vendor": "Bates-Morales",
+    "invoice_number": "INV202500673",
+    "date": "2025-03-12",
+    "currency": "EUR",
+    "subtotal": 5496.93,
+    "tax": 1099.39,
+    "total": 6596.32
+  },
+  "fr_scan_0031": {
+    "vendor": "Noël Pinto SA",
+    "invoice_number": "FAC202404398",
+    "date": "2024-08-29",
+    "currency": "EUR",
+    "subtotal": 9464.97,
+    "tax": 520.57,
+    "total": 9985.54
+  },
+  "en_pdf_0032": {
+    "vendor": "Morgan-French",
+    "invoice_number": "INV-2024-9097",
+    "date": "2024-05-15",
+    "currency": "GBP",
+    "subtotal": 6502.35,
+    "tax": 650.24,
+    "total": 7152.59
+  },
+  "fr_pdf_0033": {
+    "vendor": "Garcia",
+    "invoice_number": "FAC202405420",
+    "date": "2024-07-17",
+    "currency": "EUR",
+    "subtotal": 3754.96,
+    "tax": 206.52,
+    "total": 3961.48
+  },
+  "en_scan_0034": {
+    "vendor": "Johnson, Jones and Welch INVOI CE",
+    "invoice_number": "INV-2024-4637",
+    "date": "2024-09-03",
+    "currency": "EUR",
+    "subtotal": 5183.24,
+    "tax": 1036.65,
+    "total": 6219.89
+  },
+  "fr_scan_0035": {
+    "vendor": "Martineau",
+    "invoice_number": "FAC202300842",
+    "date": "2023-07-08",
+    "currency": "EUR",
+    "subtotal": 2148.64,
+    "tax": 214.86,
+    "total": 2363.5
+  },
+  "en_pdf_0036": {
+    "vendor": "Spence Ltd",
+    "invoice_number": "INV-2024-1626",
+    "date": "2024-09-16",
+    "currency": "USD",
+    "subtotal": 10138.5,
+    "tax": 0.0,
+    "total": 10138.5
+  },
+  "fr_pdf_0037": {
+    "vendor": "Foucher",
+    "invoice_number": "5721",
+    "date": "2023-08-26",
+    "currency": "EUR",
+    "subtotal": 3186.85,
+    "tax": 637.37,
+    "total": 3824.22
+  },
+  "en_scan_0038": {
+    "vendor": "Coffey-Ballard",
+    "invoice_number": "INV-2023-7196",
+    "date": "2023-10-23",
+    "currency": "USD",
+    "subtotal": 5593.96,
+    "tax": 1118.79,
+    "total": 6712.75
+  },
+  "fr_scan_0039": {
+    "vendor": "Blot SARL",
+    "invoice_number": "FAC-2024-4558",
+    "date": "2024-03-28",
+    "currency": "EUR",
+    "subtotal": 6120.48,
+    "tax": 336.63,
+    "total": 6457.11
+  },
+  "en_pdf_0040": {
+    "vendor": "Zhang PLC",
+    "invoice_number": "INV-2025-8432",
+    "date": "2025-06-04",
+    "currency": "EUR",
+    "subtotal": 4356.82,
+    "tax": 435.68,
+    "total": 4792.5
+  },
+  "fr_pdf_0041": {
+    "vendor": "Blanchet",
+    "invoice_number": "6092",
+    "date": "2023-06-12",
+    "currency": "EUR",
+    "subtotal": 5117.44,
+    "tax": 281.46,
+    "total": 5398.9
+  },
+  "en_scan_0042": {
+    "vendor": "Morris and Sons",
+    "invoice_number": "9328",
+    "date": "2024-09-05",
+    "currency": "GBP",
+    "subtotal": 6265.13,
+    "tax": 313.26,
+    "total": 6578.39
+  },
+  "fr_scan_0043": {
+    "vendor": "Dumont",
+    "invoice_number": "FAC202309369",
+    "date": "2023-09-02",
+    "currency": "EUR",
+    "subtotal": 7816.66,
+    "tax": 429.92,
+    "total": 8246.58
+  },
+  "en_pdf_0044": {
+    "vendor": "Romero, Moore and Olson",
+    "invoice_number": "INV202302362",
+    "date": "2023-01-16",
+    "currency": "USD",
+    "subtotal": 5923.09,
+    "tax": 592.31,
+    "total": 6515.4
+  },
+  "fr_pdf_0045": {
+    "vendor": "Mallet Humbert S.A.R.L.",
+    "invoice_number": "FAC-2024-4709",
+    "date": "2024-10-08",
+    "currency": "EUR",
+    "subtotal": 5957.06,
+    "tax": 1191.41,
+    "total": 7148.47
+  },
+  "en_scan_0046": {
+    "vendor": "Stanley-Tucker",
+    "invoice_number": "INV-2024-2386",
+    "date": "2024-03-17",
+    "currency": "GBP",
+    "subtotal": 254.01,
+    "tax": 20.32,
+    "total": 274.33
+  },
+  "fr_scan_0047": {
+    "vendor": "Traore",
+    "invoice_number": "FAC-2023-8956",
+    "date": "2023-10-22",
+    "currency": "EUR",
+    "subtotal": 2041.32,
+    "tax": 204.13,
+    "total": 2245.45
+  },
+  "en_pdf_0048": {
+    "vendor": "Burch and Sons",
+    "invoice_number": "INV202306485",
+    "date": "2023-01-23",
+    "currency": "GBP",
+    "subtotal": 2014.86,
+    "tax": 161.19,
+    "total": 2176.05
+  },
+  "fr_pdf_0049": {
+    "vendor": "Techer",
+    "invoice_number": "FAC202400646",
+    "date": "2024-10-23",
+    "currency": "EUR",
+    "subtotal": 3288.7,
+    "tax": 180.88,
+    "total": 3469.58
+  },
+  "en_scan_0050": {
+    "vendor": "Lin, Wyatt and Gilbert",
+    "invoice_number": "INV202507895",
+    "date": "2025-04-24",
+    "currency": "USD",
+    "subtotal": 3900.35,
+    "tax": 312.03,
+    "total": 4212.38
+  },
+  "fr_scan_0051": {
+    "vendor": "Gauthier",
+    "invoice_number": "2776",
+    "date": "2024-01-16",
+    "currency": "EUR",
+    "subtotal": 2292.88,
+    "tax": 126.11,
+    "total": 2418.99
+  },
+  "en_pdf_0052": {
+    "vendor": "Larson Inc",
+    "invoice_number": "INV-2023-1593",
+    "date": "2023-04-29",
+    "currency": "GBP",
+    "subtotal": 193.95,
+    "tax": 19.39,
+    "total": 213.34
+  },
+  "fr_pdf_0053": {
+    "vendor": "Mace Navarro SA",
+    "invoice_number": "FAC202307265",
+    "date": "2023-08-11",
+    "currency": "EUR",
+    "subtotal": 3920.87,
+    "tax": 392.09,
+    "total": 4312.96
+  },
+  "en_scan_0054": {
+    "vendor": "Joyce, Murray and Campbell",
+    "invoice_number": "INV202300829",
+    "date": "2023-01-22",
+    "currency": "USD",
+    "subtotal": 1363.56,
+    "tax": 272.71,
+    "total": 1636.27
+  },
+  "fr_scan_0055": {
+    "vendor": "Gomez",
+    "invoice_number": "FAC-2024-5305",
+    "date": "2024-08-25",
+    "currency": "EUR",
+    "subtotal": 4340.38,
+    "tax": 868.08,
+    "total": 5208.46
+  },
+  "en_pdf_0056": {
+    "vendor": "Barnett, Mills and Ward",
+    "invoice_number": "INV-2024-7268",
+    "date": "2024-12-30",
+    "currency": "GBP",
+    "subtotal": 7601.82,
+    "tax": 760.18,
+    "total": 8362.0
+  },
+  "fr_pdf_0057": {
+    "vendor": "Chrétien et Fils",
+    "invoice_number": "10034",
+    "date": "2025-05-23",
+    "currency": "EUR",
+    "subtotal": 6712.28,
+    "tax": 1342.46,
+    "total": 8054.74
+  },
+  "en_scan_0058": {
+    "vendor": "Acosta Inc",
+    "invoice_number": "INV-2023-7076",
+    "date": "2023-04-06",
+    "currency": "USD",
+    "subtotal": 2744.43,
+    "tax": 0.0,
+    "total": 2744.43
+  },
+  "fr_scan_0059": {
+    "vendor": "Potier Lebreton SARL",
+    "invoice_number": "FAC202309114",
+    "date": "2023-12-25",
+    "currency": "EUR",
+    "subtotal": 3151.4,
+    "tax": 630.28,
+    "total": 3781.68
+  },
+  "en_pdf_0060": {
+    "vendor": "Griffin, Davies and Mitchell",
+    "invoice_number": "INV-2023-8692",
+    "date": "2023-04-04",
+    "currency": "EUR",
+    "subtotal": 4676.28,
+    "tax": 0.0,
+    "total": 4676.28
+  },
+  "fr_pdf_0061": {
+    "vendor": "Clerc",
+    "invoice_number": "FAC-2025-8395",
+    "date": "2025-02-12",
+    "currency": "EUR",
+    "subtotal": 3650.29,
+    "tax": 730.06,
+    "total": 4380.35
+  },
+  "en_scan_0062": {
+    "vendor": "Martin Ltd",
+    "invoice_number": "INV202504187",
+    "date": "2025-02-21",
+    "currency": "USD",
+    "subtotal": 4657.06,
+    "tax": 232.85,
+    "total": 4889.91
+  },
+  "fr_scan_0063": {
+    "vendor": "Pottier Lebon SARL",
+    "invoice_number": "FAC202406844",
+    "date": "2024-02-19",
+    "currency": "EUR",
+    "subtotal": 4846.39,
+    "tax": 266.55,
+    "total": 5112.94
+  },
+  "en_pdf_0064": {
+    "vendor": "Owens LLC",
+    "invoice_number": "INV202505725",
+    "date": "2025-03-05",
+    "currency": "EUR",
+    "subtotal": 2903.51,
+    "tax": 145.18,
+    "total": 3048.69
+  },
+  "fr_pdf_0065": {
+    "vendor": "Nicolas S.A.R.L.",
+    "invoice_number": "10249",
+    "date": "2024-11-28",
+    "currency": "EUR",
+    "subtotal": 4707.52,
+    "tax": 470.75,
+    "total": 5178.27
+  },
+  "en_scan_0066": {
+    "vendor": "Anderson Inc",
+    "invoice_number": "2480",
+    "date": "2023-03-20",
+    "currency": "EUR",
+    "subtotal": 3389.87,
+    "tax": 271.19,
+    "total": 3661.06
+  },
+  "fr_scan_0067": {
+    "vendor": "Godard S.A.R.L.",
+    "invoice_number": "FAC-2024-9992",
+    "date": "2024-06-19",
+    "currency": "EUR",
+    "subtotal": 7516.68,
+    "tax": 413.42,
+    "total": 7930.1
+  },
+  "en_pdf_0068": {
+    "vendor": "Gutierrez and Sons",
+    "invoice_number": "10750",
+    "date": "2023-05-13",
+    "currency": "GBP",
+    "subtotal": 6760.17,
+    "tax": 676.02,
+    "total": 7436.19
+  },
+  "fr_pdf_0069": {
+    "vendor": "Perrot S.A.R.L.",
+    "invoice_number": "FAC202301265",
+    "date": "2023-06-08",
+    "currency": "EUR",
+    "subtotal": 6174.37,
+    "tax": 1234.87,
+    "total": 7409.24
+  },
+  "en_scan_0070": {
+    "vendor": "Little Inc",
+    "invoice_number": "6969",
+    "date": "2024-02-25",
+    "currency": "GBP",
+    "subtotal": 4344.6,
+    "tax": 0.0,
+    "total": 4344.6
+  },
+  "fr_scan_0071": {
+    "vendor": "Léger S.A.S.",
+    "invoice_number": "FAC202408642",
+    "date": "2024-05-29",
+    "currency": "EUR",
+    "subtotal": 8047.52,
+    "tax": 804.75,
+    "total": 8852.27
+  },
+  "en_pdf_0072": {
+    "vendor": "Stevens, Scott and Lopez",
+    "invoice_number": "INV202303638",
+    "date": "2023-04-04",
+    "currency": "GBP",
+    "subtotal": 907.05,
+    "tax": 90.7,
+    "total": 997.75
+  },
+  "fr_pdf_0073": {
+    "vendor": "Riou SARL",
+    "invoice_number": "3274",
+    "date": "2024-12-13",
+    "currency": "EUR",
+    "subtotal": 2703.45,
+    "tax": 270.34,
+    "total": 2973.79
+  },
+  "en_scan_0074": {
+    "vendor": "Rodriguez, Poole and Leach",
+    "invoice_number": "INV-2024-8783",
+    "date": "2024-09-03",
+    "currency": "EUR",
+    "subtotal": 6420.09,
+    "tax": 642.01,
+    "total": 7062.1
+  },
+  "fr_scan_0075": {
+    "vendor": "Pineau",
+    "invoice_number": "9317",
+    "date": "2024-06-03",
+    "currency": "EUR",
+    "subtotal": 4273.09,
+    "tax": 235.02,
+    "total": 4508.11
+  },
+  "en_pdf_0076": {
+    "vendor": "Mcknight, Michael and Jones",
+    "invoice_number": "6547",
+    "date": "2024-07-13",
+    "currency": "EUR",
+    "subtotal": 3300.2,
+    "tax": 264.02,
+    "total": 3564.22
+  },
+  "fr_pdf_0077": {
+    "vendor": "Paris",
+    "invoice_number": "FAC202503132",
+    "date": "2025-02-10",
+    "currency": "EUR",
+    "subtotal": 3338.87,
+    "tax": 667.77,
+    "total": 4006.64
+  },
+  "en_scan_0078": {
+    "vendor": "Wells, Atkinson and Turner",
+    "invoice_number": "INV-2024-9871",
+    "date": "2024-03-16",
+    "currency": "EUR",
+    "subtotal": 4353.79,
+    "tax": 0.0,
+    "total": 4353.79
+  },
+  "fr_scan_0079": {
+    "vendor": "Turpin",
+    "invoice_number": "FAC-2024-2622",
+    "date": "2024-11-26",
+    "currency": "EUR",
+    "subtotal": 3647.67,
+    "tax": 200.62,
+    "total": 3848.29
+  },
+  "en_pdf_0080": {
+    "vendor": "Riley, Butler and Hernandez",
+    "invoice_number": "INV202406522",
+    "date": "2024-01-11",
+    "currency": "EUR",
+    "subtotal": 4583.88,
+    "tax": 916.78,
+    "total": 5500.66
+  },
+  "fr_pdf_0081": {
+    "vendor": "Colin",
+    "invoice_number": "FAC-2023-7293",
+    "date": "2023-06-26",
+    "currency": "EUR",
+    "subtotal": 6320.26,
+    "tax": 632.03,
+    "total": 6952.29
+  },
+  "en_scan_0082": {
+    "vendor": "Branch and Sons",
+    "invoice_number": "6913",
+    "date": "2023-01-27",
+    "currency": "EUR",
+    "subtotal": 2319.55,
+    "tax": 231.96,
+    "total": 2551.51
+  },
+  "fr_scan_0083": {
+    "vendor": "Duhamel Perrier et Fils",
+    "invoice_number": "FAC202502115",
+    "date": "2025-02-25",
+    "currency": "EUR",
+    "subtotal": 6994.82,
+    "tax": 1398.96,
+    "total": 8393.78
+  },
+  "en_pdf_0084": {
+    "vendor": "Sanders, Ayala and Johnson",
+    "invoice_number": "INV-2024-8741",
+    "date": "2024-09-21",
+    "currency": "GBP",
+    "subtotal": 1433.39,
+    "tax": 114.67,
+    "total": 1548.06
+  },
+  "fr_pdf_0085": {
+    "vendor": "Godard S.A.S.",
+    "invoice_number": "FAC202408939",
+    "date": "2024-05-24",
+    "currency": "EUR",
+    "subtotal": 6347.83,
+    "tax": 1269.57,
+    "total": 7617.4
+  },
+  "en_scan_0086": {
+    "vendor": "Evans-Patton",
+    "invoice_number": "7071",
+    "date": "2025-02-17",
+    "currency": "USD",
+    "subtotal": 6428.57,
+    "tax": 321.43,
+    "total": 6750.0
+  },
+  "fr_scan_0087": {
+    "vendor": "Thibault S.A.",
+    "invoice_number": "FAC202405056",
+    "date": "2024-05-25",
+    "currency": "EUR",
+    "subtotal": 9831.5,
+    "tax": 983.15,
+    "total": 10814.65
+  },
+  "en_pdf_0088": {
+    "vendor": "Ewing-Mendoza",
+    "invoice_number": "6940",
+    "date": "2023-07-19",
+    "currency": "EUR",
+    "subtotal": 4120.56,
+    "tax": 824.11,
+    "total": 4944.67
+  },
+  "fr_pdf_0089": {
+    "vendor": "Leleu",
+    "invoice_number": "FAC202408342",
+    "date": "2024-09-08",
+    "currency": "EUR",
+    "subtotal": 3492.48,
+    "tax": 698.5,
+    "total": 4190.98
+  },
+  "en_scan_0090": {
+    "vendor": "Patrick Inc",
+    "invoice_number": "INV-2023-7781",
+    "date": "2023-11-03",
+    "currency": "EUR",
+    "subtotal": 10459.42,
+    "tax": 2091.88,
+    "total": 12551.3
+  },
+  "fr_scan_0091": {
+    "vendor": "Bourdon",
+    "invoice_number": "FAC-2023-3126",
+    "date": "2023-04-23",
+    "currency": "EUR",
+    "subtotal": 5443.67,
+    "tax": 299.4,
+    "total": 5743.07
+  },
+  "en_pdf_0092": {
+    "vendor": "Brooks and Sons",
+    "invoice_number": "8532",
+    "date": "2023-06-27",
+    "currency": "USD",
+    "subtotal": 4878.14,
+    "tax": 390.25,
+    "total": 5268.39
+  },
+  "fr_pdf_0093": {
+    "vendor": "Klein David SARL",
+    "invoice_number": "FAC202308012",
+    "date": "2023-08-01",
+    "currency": "EUR",
+    "subtotal": 2477.99,
+    "tax": 136.29,
+    "total": 2614.28
+  },
+  "en_scan_0094": {
+    "vendor": "Evans Inc",
+    "invoice_number": "4311",
+    "date": "2023-08-08",
+    "currency": "GBP",
+    "subtotal": 6959.86,
+    "tax": 695.99,
+    "total": 7655.85
+  },
+  "fr_scan_0095": {
+    "vendor": "Menard Rodrigues et Fils",
+    "invoice_number": "FAC-2023-9017",
+    "date": "2023-01-06",
+    "currency": "EUR",
+    "subtotal": 2322.88,
+    "tax": 464.58,
+    "total": 2787.46
+  },
+  "en_pdf_0096": {
+    "vendor": "Mayer, Wood and Clements",
+    "invoice_number": "INV202306505",
+    "date": "2023-02-07",
+    "currency": "EUR",
+    "subtotal": 3546.93,
+    "tax": 177.35,
+    "total": 3724.28
+  },
+  "fr_pdf_0097": {
+    "vendor": "Gilbert S.A.",
+    "invoice_number": "3663",
+    "date": "2023-12-05",
+    "currency": "EUR",
+    "subtotal": 4757.01,
+    "tax": 951.4,
+    "total": 5708.41
+  },
+  "en_scan_0098": {
+    "vendor": "Patterson Inc",
+    "invoice_number": "INV-2024-1563",
+    "date": "2024-11-16",
+    "currency": "USD",
+    "subtotal": 6964.19,
+    "tax": 696.42,
+    "total": 7660.61
+  },
+  "fr_scan_0099": {
+    "vendor": "Mace",
+    "invoice_number": "7022",
+    "date": "2023-10-30",
+    "currency": "EUR",
+    "subtotal": 6378.75,
+    "tax": 350.83,
+    "total": 6729.58
+  },
+  "en_pdf_0100": {
+    "vendor": "Griffith, Mitchell and Pugh",
+    "invoice_number": "INV-2024-1839",
+    "date": "2024-07-31",
+    "currency": "USD",
+    "subtotal": 6470.97,
+    "tax": 0.0,
+    "total": 6470.97
+  },
+  "fr_pdf_0101": {
+    "vendor": "Ledoux Georges SA",
+    "invoice_number": "8485",
+    "date": "2024-03-01",
+    "currency": "EUR",
+    "subtotal": 3793.74,
+    "tax": 208.66,
+    "total": 4002.4
+  },
+  "en_scan_0102": {
+    "vendor": "Morales, Davidson and Medina",
+    "invoice_number": "INV-2023-7735",
+    "date": "2023-03-12",
+    "currency": "EUR",
+    "subtotal": 1763.65,
+    "tax": 0.0,
+    "total": 1763.65
+  },
+  "fr_scan_0103": {
+    "vendor": "Marchand",
+    "invoice_number": "FAC-2025-0057",
+    "date": "2025-05-04",
+    "currency": "EUR",
+    "subtotal": 3405.67,
+    "tax": 681.13,
+    "total": 4086.8
+  },
+  "en_pdf_0104": {
+    "vendor": "Jackson, Moore and Ayala",
+    "invoice_number": "INV-2023-3377",
+    "date": "2023-09-04",
+    "currency": "EUR",
+    "subtotal": 2059.97,
+    "tax": 0.0,
+    "total": 2059.97
+  },
+  "fr_pdf_0105": {
+    "vendor": "Barthelemy Tessier S.A.S.",
+    "invoice_number": "FAC-2025-5254",
+    "date": "2025-03-02",
+    "currency": "EUR",
+    "subtotal": 3849.9,
+    "tax": 211.74,
+    "total": 4061.64
+  },
+  "en_scan_0106": {
+    "vendor": "Moreno and Sons",
+    "invoice_number": "INV202406822",
+    "date": "2024-12-14",
+    "currency": "EUR",
+    "subtotal": 4168.7,
+    "tax": 333.5,
+    "total": 4502.2
+  },
+  "fr_scan_0107": {
+    "vendor": "Cordier",
+    "invoice_number": "FAC-2025-3121",
+    "date": "2025-04-29",
+    "currency": "EUR",
+    "subtotal": 3465.48,
+    "tax": 190.6,
+    "total": 3656.08
+  },
+  "en_pdf_0108": {
+    "vendor": "Davis and Sons",
+    "invoice_number": "INV202403351",
+    "date": "2024-12-21",
+    "currency": "GBP",
+    "subtotal": 5158.38,
+    "tax": 1031.68,
+    "total": 6190.06
+  },
+  "fr_pdf_0109": {
+    "vendor": "Pinto SA",
+    "invoice_number": "FAC-2023-6782",
+    "date": "2023-11-17",
+    "currency": "EUR",
+    "subtotal": 7401.6,
+    "tax": 740.16,
+    "total": 8141.76
+  },
+  "en_scan_0110": {
+    "vendor": "Holland Group",
+    "invoice_number": "INV202508038",
+    "date": "2025-01-10",
+    "currency": "GBP",
+    "subtotal": 3059.21,
+    "tax": 305.92,
+    "total": 3365.13
+  },
+  "fr_scan_0111": {
+    "vendor": "Duhamel",
+    "invoice_number": "FAC-2024-6115",
+    "date": "2024-04-11",
+    "currency": "EUR",
+    "subtotal": 1968.44,
+    "tax": 108.26,
+    "total": 2076.7
+  },
+  "en_pdf_0112": {
+    "vendor": "Schroeder PLC",
+    "invoice_number": "INV-2023-6503",
+    "date": "2023-10-01",
+    "currency": "GBP",
+    "subtotal": 4154.63,
+    "tax": 332.37,
+    "total": 4487.0
+  },
+  "fr_pdf_0113": {
+    "vendor": "Boutin S.A.S.",
+    "invoice_number": "1155",
+    "date": "2023-02-27",
+    "currency": "EUR",
+    "subtotal": 1119.79,
+    "tax": 111.98,
+    "total": 1231.77
+  },
+  "en_scan_0114": {
+    "vendor": "Fowler, Tanner and Griffin",
+    "invoice_number": "INV-2024-0540",
+    "date": "2024-11-04",
+    "currency": "USD",
+    "subtotal": 4099.39,
+    "tax": 819.88,
+    "total": 4919.27
+  },
+  "fr_scan_0115": {
+    "vendor": "Roussel SARL",
+    "invoice_number": "FAC202406500",
+    "date": "2024-09-01",
+    "currency": "USD",
+    "subtotal": 3410.31,
+    "tax": 187.57,
+    "total": 3597.88
+  },
+  "en_pdf_0116": {
+    "vendor": "Johnson and Sons",
+    "invoice_number": "INV202405897",
+    "date": "2024-03-31",
+    "currency": "USD",
+    "subtotal": 3931.73,
+    "tax": 314.54,
+    "total": 4246.27
+  },
+  "fr_pdf_0117": {
+    "vendor": "Allard",
+    "invoice_number": "FAC-2025-6312",
+    "date": "2025-06-03",
+    "currency": "EUR",
+    "subtotal": 771.18,
+    "tax": 77.12,
+    "total": 848.3
+  },
+  "en_scan_0118": {
+    "vendor": "Thompson-Joyce",
+    "invoice_number": "INV-2024-4124",
+    "date": "2024-01-05",
+    "currency": "EUR",
+    "subtotal": 2603.94,
+    "tax": 0.0,
+    "total": 2603.94
+  },
+  "fr_scan_0119": {
+    "vendor": "Regnier",
+    "invoice_number": "FAC202405229",
+    "date": "2024-02-12",
+    "currency": "EUR",
+    "subtotal": 3921.92,
+    "tax": 784.38,
+    "total": 4706.3
+  }
+}
