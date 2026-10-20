@@ -3,3 +3,5 @@ data/
 tessdata/*.traineddata
 __pycache__/
 .pytest_cache/
+results/*_predictions.json
+.env

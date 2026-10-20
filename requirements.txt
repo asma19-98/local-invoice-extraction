@@ -1,0 +1,8 @@
+pymupdf
+pytesseract
+pillow
+pydantic>=2
+faker
+reportlab
+requests
+pytest
