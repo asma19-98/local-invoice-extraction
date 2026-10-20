@@ -35,8 +35,8 @@ Documents with every field correct: **98.3%**
 
 | Parse method | Docs | Mean parse time | Mean extract time |
 |---|---|---|---|
-| native | 60 | 0.08 s | 0.6 ms |
-| ocr | 60 | 1.51 s | 0.7 ms |
+| native | 60 | 0.08 s | 0.4 ms |
+| ocr | 60 | 1.51 s | 0.4 ms |
 
 ## Review routing (documents with failed checks go to a human)
 

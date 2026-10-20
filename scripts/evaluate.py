@@ -54,11 +54,10 @@ def main() -> None:
         preds[doc_id] = extract(parsed["text"])
         dt = llm.extract.last_seconds if is_llm else time.perf_counter() - t0
         extract_s[parsed["method"]].append(dt)
+        parse_s[parsed["method"]].append(parsed["seconds"])
+        truths[doc_id] = labels[doc_id]["fields"]
         if is_llm:
             print(f"  {doc_id} {dt:.1f}s", flush=True)
-
-    if not truths:
-        raise SystemExit("No documents evaluated.")
 
     s = score(preds, truths)
     tag = "_" + re.sub(r"[^\w.-]", "-", config.OLLAMA_MODEL) if is_llm else ""

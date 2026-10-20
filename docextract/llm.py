@@ -6,23 +6,13 @@ import time
 from datetime import date
 
 import requests
-from pydantic import BaseModel, Field, ValidationError, field_validator
+from pydantic import BaseModel, Field, field_validator
 
 from . import config
+from .prompts import SHOT_ANSWER, SHOT_TEXT, SYSTEM
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "v1"  # bump when the prompt or schema changes, so old cached answers are not reused
-
-SYSTEM = (
-    "You extract data from invoice text. The text comes from a PDF or from OCR, so it may contain "
-    "recognition errors, and it may be in English or French. Return only what is written in the text. "
-    "Rules: use null for any field you cannot find or are not sure about; never guess or calculate "
-    "values; write amounts as plain numbers with a dot as the decimal separator and no currency symbol "
-    "(for example '1 234,56 EUR' becomes 1234.56); write the date as YYYY-MM-DD; give the currency as "
-    "a 3-letter ISO code. The vendor is the company that issued the invoice, usually at the top of the "
-    "document, not a street address. The subtotal is the amount before tax, the tax is the VAT/sales "
-    "tax amount, and the total is the final amount due including tax."
-)
+PROMPT_VERSION = "v2"  # bump when prompts.py or the schema changes, so old cached answers are not reused
 
 
 class InvoiceFields(BaseModel):
@@ -37,12 +27,12 @@ class InvoiceFields(BaseModel):
     @field_validator("vendor", "invoice_number")
     @classmethod
     def _strip(cls, v):
-        return v.strip() or None if v is not None else None
+        return (v.strip() or None) if v is not None else None
 
     @field_validator("currency")
     @classmethod
     def _currency(cls, v):
-        return v.strip().upper() or None if v is not None else None
+        return (v.strip().upper() or None) if v is not None else None
 
     @field_validator("date")
     @classmethod
@@ -58,6 +48,15 @@ class InvoiceFields(BaseModel):
 def _down(e: Exception) -> RuntimeError:
     return RuntimeError(f"Cannot reach Ollama at {config.OLLAMA_URL}. "
                         "Start the Ollama app (or run `ollama serve`) and retry.")
+
+
+def build_messages(text: str) -> list[dict]:
+    return [
+        {"role": "system", "content": SYSTEM},
+        {"role": "user", "content": f"Invoice text:\n\n{SHOT_TEXT}"},
+        {"role": "assistant", "content": json.dumps(SHOT_ANSWER, ensure_ascii=False)},
+        {"role": "user", "content": f"Invoice text:\n\n{text}"},
+    ]
 
 
 def warm_up() -> None:
@@ -77,8 +76,7 @@ def _call(text: str) -> dict:
         "format": InvoiceFields.model_json_schema(),
         "keep_alive": "10m",
         "options": {"temperature": 0, "seed": 0, "num_ctx": config.LLM_NUM_CTX},
-        "messages": [{"role": "system", "content": SYSTEM},
-                     {"role": "user", "content": f"Invoice text:\n\n{text}"}],
+        "messages": build_messages(text),
     }
     try:
         r = requests.post(f"{config.OLLAMA_URL}/api/chat", json=payload, timeout=config.LLM_TIMEOUT)
@@ -111,6 +109,7 @@ def extract(text: str) -> dict:
     config.LLM_CACHE_DIR.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps({
         "fields": fields, "seconds": seconds, "model": config.OLLAMA_MODEL,
+        "prompt_version": PROMPT_VERSION,
         "tokens": {"prompt": data.get("prompt_eval_count"), "output": data.get("eval_count")},
     }), encoding="utf-8")
     return fields
